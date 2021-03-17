@@ -1,0 +1,1 @@
+{"firstName":"asad","lastName":"masad","gender":"male","email":"kasu@mail.com","userName":"watar","password":"1234","rEmail":"masu@mail.com"}
